@@ -1,4 +1,4 @@
-package br.com.alura.jdbc.modelo;
+package br.com.fernando.jdbc.modelo;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,8 +1,8 @@
-package br.com.alura.jdbc;
+package br.com.fernando.jdbc;
 
 import javax.swing.JFrame;
 
-import br.com.alura.jdbc.view.ProdutoCategoriaFrame;
+import br.com.fernando.jdbc.view.ProdutoCategoriaFrame;
 
 public class TestaOperacaoComView {
 

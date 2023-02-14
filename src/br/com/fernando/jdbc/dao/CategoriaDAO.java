@@ -1,4 +1,4 @@
-package br.com.alura.jdbc.dao;
+package br.com.fernando.jdbc.dao;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
@@ -7,8 +7,8 @@ import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;
 
-import br.com.alura.jdbc.modelo.Categoria;
-import br.com.alura.jdbc.modelo.Produto;
+import br.com.fernando.jdbc.modelo.Categoria;
+import br.com.fernando.jdbc.modelo.Produto;
 
 public class CategoriaDAO {
 

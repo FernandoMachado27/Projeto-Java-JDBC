@@ -1,4 +1,4 @@
-package br.com.alura.jdbc.view;
+package br.com.fernando.jdbc.view;
 
 import java.awt.Color;
 import java.awt.Container;
@@ -15,10 +15,10 @@ import javax.swing.JTable;
 import javax.swing.JTextField;
 import javax.swing.table.DefaultTableModel;
 
-import br.com.alura.jdbc.controller.CategoriaController;
-import br.com.alura.jdbc.controller.ProdutoController;
-import br.com.alura.jdbc.modelo.Categoria;
-import br.com.alura.jdbc.modelo.Produto;
+import br.com.fernando.jdbc.controller.CategoriaController;
+import br.com.fernando.jdbc.controller.ProdutoController;
+import br.com.fernando.jdbc.modelo.Categoria;
+import br.com.fernando.jdbc.modelo.Produto;
 
 public class ProdutoCategoriaFrame extends JFrame {
 

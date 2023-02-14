@@ -1,4 +1,4 @@
-package br.com.alura.jdbc.factory;
+package br.com.fernando.jdbc.factory;
 
 import java.sql.Connection;
 import java.sql.SQLException;
